@@ -33,3 +33,9 @@ header.masthead {
 .btn-primary {
     background-color: #007bff !important;
 }
+
+#portfolio .container-fluid .row .col-lg-4,
+#portfolio .container-fluid .row .col-sm-6 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
