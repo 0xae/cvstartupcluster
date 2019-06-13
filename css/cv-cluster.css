@@ -39,3 +39,23 @@ header.masthead {
     padding-left: 0px;
     padding-right: 0px;
 }
+
+.section-footer {
+    padding-top: 4rem;
+    padding-left: 8rem;
+    padding-bottom: 4rem;
+}
+
+.footer-logo {
+    font-size: 2rem;
+    color: #6c757d;
+    font-weight: bold;
+}
+
+.section-footer li.list-inline-item {
+    padding-right: 50px;
+}
+
+.section-footer li.list-inline-item h3 {
+    color: #fff;
+}
