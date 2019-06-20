@@ -59,3 +59,24 @@ header.masthead {
 .section-footer li.list-inline-item h3 {
     color: #fff;
 }
+
+.bg-ocean {
+    background-color: #044d9c;
+}
+
+section#about {
+    padding: 4rem 0;
+}
+
+.text-primary {
+    color: #044d9c !important;
+}
+
+.showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+}
+
+.showcase .showcase-text {
+    padding: 7rem;
+}
