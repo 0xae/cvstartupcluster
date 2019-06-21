@@ -19,7 +19,6 @@ header.masthead {
 }
 
 #mainNav .navbar-brand {
-    color: #fff;
     background-color: #007bff;
     padding-left: 10px;
     padding-right: 10px;
@@ -35,13 +34,12 @@ header.inspector-header {
 
 .inspector-nav {
     padding-left: 45px !important;
-    background: #000 !important;
-    opacity: .6;
+    background: #fff !important;
 }
 
 .inspector-nav .nav-item a {
     font-size: 25px !important;
-    color: #fff !important;
+    color: #007bff !important;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link, 
