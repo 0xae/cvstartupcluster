@@ -25,6 +25,25 @@ header.masthead {
     padding-right: 10px;
 }
 
+header.cluster-header {
+    background-image: url("../img/headerx.jpg");
+}
+
+header.inspector-header {
+    background-image: url("../img/header.jpg");
+}
+
+.inspector-nav {
+    padding-left: 45px !important;
+    background: #000 !important;
+    opacity: .6;
+}
+
+.inspector-nav .nav-item a {
+    font-size: 25px !important;
+    color: #fff !important;
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link, 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     color: #333;
