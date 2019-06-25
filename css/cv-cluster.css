@@ -97,3 +97,15 @@ section#about {
 .showcase .showcase-text {
     padding: 7rem;
 }
+
+.sep-hr {
+    margin-top: 15px;
+    max-width: 100px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
+
+.slide-descr {
+    color: #fff;
+    font-weight: bold;
+}
